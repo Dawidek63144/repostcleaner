@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["N4MT2UF63Z.com.dawidek.exodus"],
+        "components": [
+          { "/": "/repostcleaner/callback.html", "comment": "TikTok OAuth relay for Repost Cleaner" }
+        ]
+      }
+    ]
+  }
+}
